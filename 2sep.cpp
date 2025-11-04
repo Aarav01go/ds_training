@@ -9,6 +9,7 @@ int main(){
    for(int i=0;i<aux.size();i++){
       if(aux[i]%2!=0){
          cout<<i;
+         cout<<"\t"
       }
    }
 
